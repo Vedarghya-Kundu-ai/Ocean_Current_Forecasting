@@ -1,0 +1,11 @@
+# Data & Models
+*.nc
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.venv/
+.env
