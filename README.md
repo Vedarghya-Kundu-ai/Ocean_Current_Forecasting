@@ -120,9 +120,8 @@ Due to system limitations:
 
 - Algorithm: Random Forest Regressor  
 - Configuration:
-  - `n_estimators`: 50–100  
-  - `n_jobs`: 1 (memory-safe)  
-  - `max_depth`: limited (optional optimization)  
+  - `n_estimators`: 100  
+  - `n_jobs`: -1  
 
 ---
 
