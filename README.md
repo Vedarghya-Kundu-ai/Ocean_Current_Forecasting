@@ -42,7 +42,7 @@ The model is trained and applicable within:
 - **Latitude:** -25° to 20°  
 - **Longitude:** 55° to 85°  
 
-This region corresponds to the **Northern and Central Indian Ocean**, including:
+This region corresponds to the **Central and Western Indian Ocean**, including:
 - Arabian Sea  
 - Bay of Bengal  
 - Waters around the Indian subcontinent  
